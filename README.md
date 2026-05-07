@@ -35,7 +35,7 @@ This project analyzes mobile device usage patterns, user engagement, data consum
 
 ## 🔹 Dashboard Preview
 
-![Dashboard Screenshot]("Dashboard_img.png")
+![Dashboard Screenshot]("C:\Users\harshita mahant\OneDrive\Pictures\Screenshots\dashboard.png")
 
 ---
 
